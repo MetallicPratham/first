@@ -4,7 +4,7 @@ public class bhumi {
 
 	public static void main(String[] args) {
 		System.out.println("jay shree ram1");
-		System.out.println("jay shree ram1");
+		
 	}
 
 }
